@@ -1,1 +1,2 @@
-# Jeu_du_Snake
+Voici ma réalisation du fameux jeu Snake que l'on a tous connu sur notre bon vieux Nokia 3310 !
+Ce projet a été réalisé en suivant différents cours via Udemy.
